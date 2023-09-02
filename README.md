@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Techvulkan
-- 👀 I’m interested in online security and privacy
+- 👀 I’m interested in online security, pen testing, vulneravbilty prevention and privacy management. 
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source SIEM tools. 
 - 📫 How to reach me ...
 
 <!---
